@@ -522,7 +522,7 @@ footer{
    overflow:hidden;
    background:#2C3335;
    border-radius:4px;
-   text-align: left;
+   text-align: justify;
 }
 .project-report{
    float:left;
