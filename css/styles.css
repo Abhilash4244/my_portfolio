@@ -454,28 +454,29 @@ footer{
 #projects{
    padding:50px 15px;
    
-   text-align:center
+   text-align:center;
 }
 #projects h2{
    
-   margin-bottom:50px
+   margin-bottom:50px;
 }
 .project{
    position:relative;
-   max-width:900px;
+   max-width:1200px;
    margin:0 auto 30px auto;
    overflow:hidden;
    background:#2C3335;
-   border-radius:4px
+   border-radius:4px;
+   text-align: left;
 }
-.project-image{
-   float:left
+.project-report{
+   float:left;
 }
 .project-info{
    position:absolute;
    top:50%;
    transform:translateY(-50%);
-   margin-left:300px;
+   margin-left:600px;
    padding:15px
 }
 .project-info h3{
@@ -489,7 +490,7 @@ footer{
    margin:0 0 15px 0;
    font-size:0.9em
 }
-.no-image .project-info{
+.no-report .project-info{
    position:relative;
    margin:0;
    padding:30px 15px;
