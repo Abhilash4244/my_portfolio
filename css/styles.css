@@ -572,9 +572,7 @@ footer{
    display:inline-block;
    margin:7px;
    padding:5px 10px;
-   
-   background-color: #585858;;
-
+   background-color: #585858;
    list-style:none;
    cursor:default;
    font-size:1.2em
@@ -583,6 +581,7 @@ footer{
 #contact{
    padding:50px 15px;
    text-align:center;
+   background-color: #2C3335;
 }
 
 #contact h3{
